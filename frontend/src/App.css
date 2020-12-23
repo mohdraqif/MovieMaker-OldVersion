@@ -3,6 +3,7 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: #333333;
 }
 
 .topnav {
@@ -69,7 +70,6 @@ body {
 }
 
 .movies{
-  background-color: #f3f2f2;
   padding: 30px;
 }
 
@@ -78,27 +78,30 @@ body {
   height: 280px;
   text-align: center;
   margin: 180px auto;
+  color:#ddd;
 }
 
 .card {
   /* Add shadows to create the "card" effect */
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
+  transition: 0.25s ease-in-out;
   display: inline-block;
   margin: 50px 20px 10px 20px;
   width: 20%;
   height: 370px;
   padding: 5px 0;
+  background-color: #a7a4a7ec;
 }
 
 /* On mouse-over, add a deeper shadow */
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  transform: scale(1.03);
 }
 
 /* Add some padding inside the card container */
 .container {
-  padding: 2px 16px;
+  padding: 5px 16px;
   text-transform: capitalize;
 }
 
@@ -106,6 +109,10 @@ body {
   margin-bottom: 50px;
   padding: 50px 100px;
   background-color: #ccc;
+}
+
+.addMovie button {
+  cursor: pointer;
 }
 
 form label,button{
