@@ -24,7 +24,9 @@ For Backend=====================================
 
 
 #######################################
+
 Use 2 DIFFERENT terminals for backend and frontend so they can keep running simultaneously.
 
+#######################################
 
 If you still have any issues, mail me at mohdraqif94@gmail.com
