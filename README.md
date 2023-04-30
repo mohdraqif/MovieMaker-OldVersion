@@ -1,3 +1,5 @@
+The new version of this application is here: https://github.com/mohdraqif/Movie-Maker-NewVersion
+
 Steps to RUN the application:
 
 1- Download the ZIP file.
