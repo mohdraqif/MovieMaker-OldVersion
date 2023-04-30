@@ -1,4 +1,4 @@
-The new version of this application is here: https://github.com/mohdraqif/Movie-Maker-NewVersion
+The NEW VERSION of this application is here: https://github.com/mohdraqif/Movie-Maker-NewVersion
 
 Steps to RUN the application:
 
